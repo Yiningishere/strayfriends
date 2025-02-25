@@ -1,3 +1,4 @@
+// Written by Yinging
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Camera, MapPin, Calendar, Send, AlertCircle } from 'lucide-react';
